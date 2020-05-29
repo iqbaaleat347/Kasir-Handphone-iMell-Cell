@@ -1,19 +1,13 @@
-# AlBarokah
-Aplikasi Kasir (PoS) Offline berbasis Web
+# iMell Ce;;
+Aplikasi Kasir Handphone (PoS) Offline berbasis HTML dan JavaScript
 
 ## Keunggulan Produk
 1. Tidak perlu internet
-2. Tidak perlu _install_ server (Web atau Database)
+2. Tidak perlu mengadakan server (Web atau Database)
 
-## 3 langkah mudah menjalankan AlBarokah:
-1. Unduh versi terbaru AlBarokah di https://github.com/klanjabrik/AlBarokah/releases
-2. Extract file .zip yang tadi diunduh
-3. Jalankan file `index.html`
-
-## Cara Penggunaan
+## Cara Mudah Penggunaan
 1. Isi nama toko kamu di Menu >> Konfigurasi
 2. Isi data produk yang kamu jual di Menu >> Produk
 3. Di halaman depan (halaman kasir), cari dan pilih produk yang dibeli oleh pelanggan.
 
-## Demo:
-Kunjungi https://klanjabrik.github.io/demo_albarokah
+Aplikasi ini hasil modifikasi dari https://github.com/klanjabrik/AlBarokah/releases silahkan anda berkunjung kesource untuk yang lebih update
