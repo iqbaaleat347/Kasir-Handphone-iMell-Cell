@@ -1,4 +1,4 @@
-# iMell Ce;;
+# iMell Cell
 Aplikasi Kasir Handphone (PoS) Offline berbasis HTML dan JavaScript
 
 ## Keunggulan Produk
